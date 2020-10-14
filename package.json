@@ -1,0 +1,23 @@
+{
+  "name": "json-cryptids",
+  "version": "1.0.0",
+  "description": "exploring fetch and json with cryptids",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/json-cryptids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/json-cryptids/issues"
+  },
+  "homepage": "https://github.com/Plasnid/json-cryptids#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
