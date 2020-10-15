@@ -3,12 +3,9 @@
         {"name":"Altamaha-ha", "otherNames":["Altie"], "description":"plesiosaur like river animal.", "location":"Georgia, USA", "terrain":"Aquatic"},
         {"name":"Dingonek", "otherNames":["Jungle Walrus"], "description":"A tusked water-dwelling animal", "location":"West Africa", "terrain":"Aquatic"},
         {"name":"Giant Anaconda", "otherNames":["Megaconda"], "description":"Giant Snake", "location":"South America", "terrain":"Aquatic"},
-
         {"name":"Almas", "otherNames":["Abnauayu","wind-man", "zana"], "description":"Non-human ape", "location":"Asia/Caucasus", "terrain":"Terrestrial"},
         {"name":"Lizard Man of Scape Ore Swamp", "otherNames":["Lizard Man of Lee County"], "description":"Bipedal Lizard Man", "location":"South Carolina, USA", "terrain":"Terrestrial"},
         {"name":"Yeti", "otherNames":["Abominable Snowman"], "description":"Large and hairy human-like entity", "location":"Himalayas", "terrain":"Terrestrial"},
-
-
         {"name":"Mothman", "otherNames":[], "description":"Winged Bipedal", "location":"Mason County, West Virginia, USA", "terrain":"Aerial"},
         {"name":"Flatwoods Beast", "otherNames":["Braxxie", "Frametown Monster"], "description":"10 Foot tall, looking like a robotic suit with a cowl in the shape of the ace of spades", "location":"Frametown, West Virginia, USA", "terrain":"Terrestrial"},
         {"name":"Giant Dragonfish", "otherNames":["Beebes Abyssal Fish", "Bathysphere Intacta"], "description":"6 feet long with tendrils tipped with blue or red light", "location":"North Atlantic at 2100 feet deep", "terrain":"Aquatic"},
