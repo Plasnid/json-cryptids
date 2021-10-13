@@ -1,6 +1,3 @@
-
-
-
 class MonsterFun{
     constructor(dataSource, targetNode){
         this.targetNode = targetNode;
@@ -28,6 +25,5 @@ class MonsterFun{
             this.targetNode.appendChild(monsterEntry);
         });
     }
-
 }
 let monsters = new MonsterFun("data.json", document.querySelector("#cryptidsList"));
